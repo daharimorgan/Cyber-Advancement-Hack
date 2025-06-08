@@ -44,7 +44,7 @@ Make a /certifications section to store your:
 
 ### 5. Tools & Commands Vault
 Create a reference doc:
-- Common Bash/Powershell commands
+- Common Bash/PowerShell commands
 - Python scripts for recon & automation
 - Git commands cheat sheet
 - Cyber tool usage (nmap, metasploit, etc.)
@@ -79,7 +79,7 @@ Treat each phase like a belt rank. Track your mastery:
 ## 🤝 Sparring Partners
 
 - Connect with real-world communities.
-- List forums and mentors in /networking/contacts.md.
+- List forums and mentors in /networking/contacts/networking-contact-card-template.md.
 - Join Discords, subreddits, and hacker forums.
 
 ---

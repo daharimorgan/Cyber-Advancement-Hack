@@ -1,0 +1,10 @@
+{
+  "name": "cyber-advancement-hack",
+  "private": true,
+  "scripts": {
+    "lint:md": "markdownlint '**/*.md'"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.39.0"
+  }
+}
