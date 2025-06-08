@@ -16,11 +16,11 @@ Create journal entries or text files for each session:
 
 ### 2. Learning Phases
 Organize the project with folders or sections:
-- /phase-1-foundations
-- /phase-2-cyber-intro
-- /phase-3-hands-on-labs
-- /phase-4-specialization
-- /phase-5-community-ops
+- phase-1-foundations
+- phase-2-cyber-intro
+- phase-3-hands-on-labs
+- phase-4-specialization
+- phase-5-community-ops
 
 Each folder contains:
 - Notes
@@ -37,7 +37,7 @@ Each phase includes challenges. Save your code snippets, solutions, and summarie
 - Penetration test walkthroughs
 
 ### 4. Track Certifications and Courses
-Make a /certifications section to store your:
+Make a certifications section to store your:
 - CompTIA Security+ study notes
 - Progress logs from platforms like TryHackMe or HackTheBox
 - Practice test results
@@ -79,7 +79,7 @@ Treat each phase like a belt rank. Track your mastery:
 ## 🤝 Sparring Partners
 
 - Connect with real-world communities.
-- List forums and mentors in /networking/contacts.md.
+- List forums and mentors in networking/contacts/.
 - Join Discords, subreddits, and hacker forums.
 
 ---
